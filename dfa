@@ -1,0 +1,3 @@
+#!/bin/bash
+
+for t in `git status | grep -P '\t' | grep ':' | awk '{print $2}'`; do echo $t; tkdiff $t; done
