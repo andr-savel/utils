@@ -4,6 +4,8 @@ env:
 window:
     startup_mode: Maximized
     dynamic_title: true
+#    decorations: none
+    gtk_theme_variant: dark
 scrolling:
     history: 10000
 font:
