@@ -1,17 +1,69 @@
-allow-bold=true
-audible-bell=false
-background-color='#222222'
-bold-color='#d0d0d0'
-bold-color-same-as-fg=true
-cursor-background-color='#d0d0d0'
-cursor-colors-set=true
-cursor-foreground-color='#222222'
-default-size-columns=80
-foreground-color='#d0d0d0'
-palette=['#151515', '#a53c23', '#7b9246', '#d3a04d', '#6c99bb', '#9f4e85', '#7dd6cf', '#d0d0d0', '#505050', '#a53c23', '#7b9246', '#d3a04d', '#547c99', '#9f4e85', '#7dd6cf', '#f5f5f5']
-use-system-font=false
-use-theme-background=false
-use-theme-colors=false
-use-theme-transparency=false
-visible-name='Afterglow'
+[
+    {
+      "name": "Afterglow",
+      "black": "#151515",
+      "red": "#a53c23",
+      "green": "#7b9246",
+      "yellow": "#d3a04d",
+      "blue": "#6c99bb",
+      "purple": "#9f4e85",
+      "cyan": "#7dd6cf",
+      "white": "#d0d0d0",
+      "brightBlack": "#505050",
+      "brightRed": "#a53c23",
+      "brightGreen": "#7b9246",
+      "brightYellow": "#d3a04d",
+      "brightBlue": "#547c99",
+      "brightPurple": "#9f4e85",
+      "brightCyan": "#7dd6cf",
+      "brightWhite": "#f5f5f5",
+      "foreground": "#d0d0d0",
+      "background": "#222222",
+      "cursorColor": "#d0d0d0"
+    },
+    {
+      "name": "DimmedMonokai",
+      "black": "#3a3d43",
+      "red": "#be3f48",
+      "green": "#879a3b",
+      "yellow": "#c5a635",
+      "blue": "#4f76a1",
+      "purple": "#855c8d",
+      "cyan": "#578fa4",
+      "white": "#b9bcba",
+      "brightBlack": "#888987",
+      "brightRed": "#fb001f",
+      "brightGreen": "#0f722f",
+      "brightYellow": "#c47033",
+      "brightBlue": "#186de3",
+      "brightPurple": "#fb0067",
+      "brightCyan": "#2e706d",
+      "brightWhite": "#fdffb9",
+      "foreground": "#b9bcba",
+      "background": "#1f1f1f",
+      "cursorColor": "#b9bcba"
+    },
+    {
+      "name": "DimmedMonokai_with_bright_soft_links_from_Afterglow",
+      "black": "#3a3d43",
+      "red": "#be3f48",
+      "green": "#879a3b",
+      "yellow": "#c5a635",
+      "blue": "#4f76a1",
+      "purple": "#855c8d",
+      "cyan": "#7dd6cf",
+      "white": "#b9bcba",
+      "brightBlack": "#888987",
+      "brightRed": "#fb001f",
+      "brightGreen": "#0f722f",
+      "brightYellow": "#c47033",
+      "brightBlue": "#186de3",
+      "brightPurple": "#fb0067",
+      "brightCyan": "#2e706d",
+      "brightWhite": "#fdffb9",
+      "foreground": "#b9bcba",
+      "background": "#1f1f1f",
+      "cursorColor": "#b9bcba"
+    }
+]
 
