@@ -10,3 +10,6 @@ mkdir -p ~/.config/alacritty
 cd ~/.config/alacritty
 cp <prefix_path>/utils/alacritty.yml .
 ```
+
+## Gnome terminal
+'gnome_terminal_theme' contains colors description

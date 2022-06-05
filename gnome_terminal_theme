@@ -1,0 +1,17 @@
+allow-bold=true
+audible-bell=false
+background-color='#222222'
+bold-color='#d0d0d0'
+bold-color-same-as-fg=true
+cursor-background-color='#d0d0d0'
+cursor-colors-set=true
+cursor-foreground-color='#222222'
+default-size-columns=80
+foreground-color='#d0d0d0'
+palette=['#151515', '#a53c23', '#7b9246', '#d3a04d', '#6c99bb', '#9f4e85', '#7dd6cf', '#d0d0d0', '#505050', '#a53c23', '#7b9246', '#d3a04d', '#547c99', '#9f4e85', '#7dd6cf', '#f5f5f5']
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Afterglow'
+
