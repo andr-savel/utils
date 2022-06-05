@@ -12,4 +12,4 @@ cp <prefix_path>/utils/alacritty.yml .
 ```
 
 ## Gnome terminal
-'gnome_terminal_theme' contains colors description
+'gnome_terminal_theme' contains colors description for 'Afterglow' theme from https://github.com/Gogh-Co/Gogh
