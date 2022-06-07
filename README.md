@@ -15,6 +15,6 @@ cp <prefix_path>/utils/alacritty.yml .
 'gnome_terminal_theme' contains colors description for several themes from
 https://github.com/Gogh-Co/Gogh
 
-'DimmedMonokai_with_bright_soft_links_from_Afterglow' is the copy of 'DimmedMonokai' but 'cyan' color is taken from 'Afterglow' theme.
-Seems 'DimmedMonokai_with_bright_soft_links_from_Afterglow' is the best.
+'DimmedMonokai_without_bright_colors' is the 'DimmedMonokai' theme without bright colors and 'cyan' color is taken from 'Afterglow' theme.
+Seems this theme is the best.
 
