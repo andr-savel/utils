@@ -34,5 +34,13 @@ cursor:
     thickness: 0.20
 live_config_reload: true
 
+
+# 'chars' for 'Z' with 'Control + Shift' modifiers means:
+#     '\x1b[' is CSI(control sequence introducer) meaning 'ESC+['
+#     '90' is the decimal value of char 'Z'. See https://en.wikipedia.org/wiki/List_of_Unicode_characters
+#     '5' is the sum of bits for the 'Control' and 'Shift' modifiers (1 is shift, 2 is alt, 4 is ctrl)
+#     'u' stands for unicode
+
 key_bindings:
-    - { key: F11,   mods: Shift,       action: ToggleFullscreen             }
+    - { key: F11,   mods: Shift,       action: ToggleFullscreen }
+    - { key: Z,     mods: Control|Shift, chars: "\x1b[90;5u"    }
