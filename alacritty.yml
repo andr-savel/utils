@@ -8,6 +8,32 @@ window:
     gtk_theme_variant: dark
 scrolling:
     history: 10000
+colors:
+    # 'DimmedMonokai_without_bright_colors' terminal emulator color theme from 'utils' repository
+    primary:
+        background: '#1f1f1f'
+        foreground: '#b9bcba'
+    cursor:
+        text:   '#1f1f1f'
+        cursor: '#b9bcba'
+    normal:
+        black: '#3a3d43'
+        red: '#be3f48'
+        green: '#879a3b'
+        yellow: '#c5a635'
+        blue: '#4f76a1'
+        purple: '#855c8d'
+        cyan: '#7dd6cf'
+        white: '#b9bcba'
+    bright:
+        black: '#888987'
+        red: '#be3f48'
+        green: '#879a3b'
+        yellow: '#c47033'
+        blue: '#547c99'
+        purple: '#9f4e85'
+        cyan: '#7dd6cf'
+        white: '#fdffb9'
 font:
     normal:
 #        family: FiraMono Nerd Font
