@@ -51,7 +51,7 @@ font:
 #        family: FiraMono Nerd Font
         family: SauceCodePro Nerd Font
         style: Bold Italic
-    size: 12
+    size: 11
 #    use_thin_strokes: false
 cursor:
     style:
