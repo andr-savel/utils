@@ -52,6 +52,8 @@ font:
         family: SauceCodePro Nerd Font
         style: Bold Italic
     size: 11
+    offset:
+        y: -2
 #    use_thin_strokes: false
 cursor:
     style:
